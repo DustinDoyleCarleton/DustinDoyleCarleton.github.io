@@ -2,19 +2,19 @@
 
 My Part One Files:
 
-[Part One]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-one)
+[PartOne]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-one)
 
 My Part Two Files:
 
-[Part Two]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-two)
+[PartTwo]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-two)
 
 My Part Three Files:
 
-[Part Three]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-three)
+[PartThree]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-three)
 
 My Part Four Files:
 
-[Part Four]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-four)
+[PartFour]([https://www.markdownguide.org/](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-four)
 
 
 ![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
