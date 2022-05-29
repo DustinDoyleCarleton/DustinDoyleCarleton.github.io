@@ -16,5 +16,6 @@ My Part Four Files:
 
 [PartFour](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-four)
 
-https://thumbs.gfycat.com/PalatableAnotherAdouri-size_restricted.gif
-![Do a Flip]([https://i.makeagif.com/media/6-22-2017/onYamx.mp4](https://thumbs.gfycat.com/PalatableAnotherAdouri-size_restricted.gif))
+![Do a Flip](https://thumbs.gfycat.com/PalatableAnotherAdouri-size_restricted.gif)
+
+([https://i.makeagif.com/media/6-22-2017/onYamx.mp4](https://thumbs.gfycat.com/PalatableAnotherAdouri-size_restricted.gif))
