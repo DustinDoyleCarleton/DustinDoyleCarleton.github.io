@@ -17,13 +17,6 @@ My Part Four Files:
 [PartFour](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-four)
 
 
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
+![Do A flip]([https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif](https://i.makeagif.com/media/6-22-2017/onYamx.mp4))
 
 
-## My Front Page
-
-This is a site I build with gh-pages. **Wow**
-
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
-
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
