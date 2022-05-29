@@ -19,4 +19,6 @@ My Part Four Files:
 
 ![Do a Flip](https://i.makeagif.com/media/6-22-2017/onYamx.mp4)
 
+[![Alternate Text]({image-url})]({[video-url](https://i.makeagif.com/media/6-22-2017/onYamx.mp4)} "Link Title")
+
 
