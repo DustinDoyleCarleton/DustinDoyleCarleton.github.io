@@ -17,6 +17,6 @@ My Part Four Files:
 [PartFour](https://github.com/DustinDoyleCarleton/hist3814A-materials/tree/main/part-four)
 
 
-![https://i.makeagif.com/media/6-22-2017/onYamx.mp4](https://i.makeagif.com/media/6-22-2017/onYamx.mp4)
+![Do a Flip](https://i.makeagif.com/media/6-22-2017/onYamx.mp4)
 
 
